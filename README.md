@@ -1,3 +1,5 @@
 # angular
 Angular 4 study
-Year 2017
+year 2017
+Angular study
+
